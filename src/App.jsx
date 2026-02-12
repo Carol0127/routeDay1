@@ -1,4 +1,3 @@
-import { useEffect } from "react";
 import "./App.css";
 import { useNavigate, HashRouter, NavLink, Routes, Route } from "react-router-dom";
 const Todo = () => {
